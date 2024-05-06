@@ -1,0 +1,6 @@
+/data/
+/code/dump/
+__pycache__/
+.ipynb_checkpoints
+绘图*.ipynb 
+.DS_store
